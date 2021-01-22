@@ -1,0 +1,3 @@
+view.sslVerificationMode = "1"
+view.UnauthenticatedAccessEnabled = ""
+viewusb.AllowSmartcard = "true"
