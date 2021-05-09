@@ -1,6 +1,6 @@
-FROM debian:stretch
+FROM docker.io/debian:stretch
 
-ARG URL=https://download3.vmware.com/software/view/viewclients/CART21FQ3/VMware-Horizon-Client-5.5.0-16946361.x64.bundle
+ARG URL=https://download3.vmware.com/software/view/viewclients/CART22FQ1/VMware-Horizon-Client-2103-8.2.0-17742757.x64.bundle
 ARG UID=1000
 ARG GID=1000
 
